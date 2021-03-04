@@ -1,0 +1,64 @@
+C:\Users\Cleidson\Desktop\MiniAgenda\bin\Debug\MiniAgenda.exe.config
+C:\Users\Cleidson\Desktop\MiniAgenda\obj\Debug\MiniAgenda.csprojResolveAssemblyReference.cache
+C:\Users\Cleidson\Desktop\MiniAgenda\obj\Debug\MiniAgenda.frmMenu.resources
+C:\Users\Cleidson\Desktop\MiniAgenda\obj\Debug\MiniAgenda.frmCadastroContatos.resources
+C:\Users\Cleidson\Desktop\MiniAgenda\obj\Debug\MiniAgenda.Properties.Resources.resources
+C:\Users\Cleidson\Desktop\MiniAgenda\obj\Debug\MiniAgenda.csproj.GenerateResource.Cache
+C:\Users\Cleidson\Desktop\MiniAgenda\bin\Debug\MiniAgenda.exe
+C:\Users\Cleidson\Desktop\MiniAgenda\bin\Debug\MiniAgenda.pdb
+C:\Users\Cleidson\Desktop\MiniAgenda\obj\Debug\MiniAgenda.exe
+C:\Users\Cleidson\Desktop\MiniAgenda\obj\Debug\MiniAgenda.pdb
+C:\Users\Cleidson\Desktop\MiniAgenda\obj\Debug\MiniAgenda.frmPesquisaContatos.resources
+C:\Users\Cleidson\Desktop\MiniAgenda - Sem Comentário - Completa - Com Adaptações\bin\Debug\MiniAgenda.exe.config
+C:\Users\Cleidson\Desktop\MiniAgenda - Sem Comentário - Completa - Com Adaptações\obj\Debug\MiniAgenda.exe
+C:\Users\Cleidson\Desktop\MiniAgenda - Sem Comentário - Completa - Com Adaptações\obj\Debug\MiniAgenda.pdb
+C:\Users\Cleidson\Desktop\MiniAgenda - Sem Comentário - Completa - Com Adaptações\bin\Debug\MiniAgenda.exe
+C:\Users\Cleidson\Desktop\MiniAgenda - Sem Comentário - Completa - Com Adaptações\bin\Debug\MiniAgenda.pdb
+C:\Users\Cleidson\Desktop\MiniAgenda - Sem Comentário - Completa - Com Adaptações\obj\Debug\MiniAgenda.csprojResolveAssemblyReference.cache
+C:\Users\Cleidson\Desktop\MiniAgenda - Sem Comentário - Completa - Com Adaptações\obj\Debug\MiniAgenda.frmMenu.resources
+C:\Users\Cleidson\Desktop\MiniAgenda - Sem Comentário - Completa - Com Adaptações\obj\Debug\MiniAgenda.frmCadastroContatos.resources
+C:\Users\Cleidson\Desktop\MiniAgenda - Sem Comentário - Completa - Com Adaptações\obj\Debug\MiniAgenda.frmPesquisaContatos.resources
+C:\Users\Cleidson\Desktop\MiniAgenda - Sem Comentário - Completa - Com Adaptações\obj\Debug\MiniAgenda.Properties.Resources.resources
+C:\Users\Cleidson\Desktop\MiniAgenda - Sem Comentário - Completa - Com Adaptações\obj\Debug\MiniAgenda.csproj.GenerateResource.Cache
+C:\Users\Cleidson\Desktop\MiniAgenda 7 -  Sem Comentários - Completa ++\bin\Debug\MiniAgenda.exe.config
+C:\Users\Cleidson\Desktop\MiniAgenda 7 -  Sem Comentários - Completa ++\obj\Debug\MiniAgenda.exe
+C:\Users\Cleidson\Desktop\MiniAgenda 7 -  Sem Comentários - Completa ++\obj\Debug\MiniAgenda.pdb
+C:\Users\Cleidson\Desktop\MiniAgenda 7 -  Sem Comentários - Completa ++\bin\Debug\MiniAgenda.exe
+C:\Users\Cleidson\Desktop\MiniAgenda 7 -  Sem Comentários - Completa ++\bin\Debug\MiniAgenda.pdb
+C:\Users\Cleidson\Desktop\MiniAgenda 7 -  Sem Comentários - Completa ++\obj\Debug\MiniAgenda.csprojResolveAssemblyReference.cache
+C:\Users\Cleidson\Desktop\MiniAgenda 7 -  Sem Comentários - Completa ++\obj\Debug\MiniAgenda.frmMenu.resources
+C:\Users\Cleidson\Desktop\MiniAgenda 7 -  Sem Comentários - Completa ++\obj\Debug\MiniAgenda.frmCadastroContatos.resources
+C:\Users\Cleidson\Desktop\MiniAgenda 7 -  Sem Comentários - Completa ++\obj\Debug\MiniAgenda.frmPesquisaContatos.resources
+C:\Users\Cleidson\Desktop\MiniAgenda 7 -  Sem Comentários - Completa ++\obj\Debug\MiniAgenda.Properties.Resources.resources
+C:\Users\Cleidson\Desktop\MiniAgenda 7 -  Sem Comentários - Completa ++\obj\Debug\MiniAgenda.csproj.GenerateResource.Cache
+C:\Users\Cleidson\Desktop\MiniAgenda 7 -  Completa - Com Comentários\bin\Debug\MiniAgenda.exe.config
+C:\Users\Cleidson\Desktop\MiniAgenda 7 -  Completa - Com Comentários\obj\Debug\MiniAgenda.exe
+C:\Users\Cleidson\Desktop\MiniAgenda 7 -  Completa - Com Comentários\obj\Debug\MiniAgenda.pdb
+C:\Users\Cleidson\Desktop\MiniAgenda 7 -  Completa - Com Comentários\bin\Debug\MiniAgenda.exe
+C:\Users\Cleidson\Desktop\MiniAgenda 7 -  Completa - Com Comentários\bin\Debug\MiniAgenda.pdb
+C:\Users\Cleidson\Desktop\MiniAgenda 7 -  Completa - Com Comentários\obj\Debug\MiniAgenda.csprojResolveAssemblyReference.cache
+C:\Users\Cleidson\Desktop\MiniAgenda 7 -  Completa - Com Comentários\obj\Debug\MiniAgenda.frmMenu.resources
+C:\Users\Cleidson\Desktop\MiniAgenda 7 -  Completa - Com Comentários\obj\Debug\MiniAgenda.frmCadastroContatos.resources
+C:\Users\Cleidson\Desktop\MiniAgenda 7 -  Completa - Com Comentários\obj\Debug\MiniAgenda.frmPesquisaContatos.resources
+C:\Users\Cleidson\Desktop\MiniAgenda 7 -  Completa - Com Comentários\obj\Debug\MiniAgenda.Properties.Resources.resources
+C:\Users\Cleidson\Desktop\MiniAgenda 7 -  Completa - Com Comentários\obj\Debug\MiniAgenda.csproj.GenerateResource.Cache
+E:\Documentos\Acadêmico\Disciplinas\1 IFNMG\Técnico\POO\Aulas\2º Semestre\Aula 09\Práticas\_MiniAgenda -  Completa - Com Comentários\bin\Debug\MiniAgenda.exe.config
+E:\Documentos\Acadêmico\Disciplinas\1 IFNMG\Técnico\POO\Aulas\2º Semestre\Aula 09\Práticas\_MiniAgenda -  Completa - Com Comentários\obj\Debug\MiniAgenda.exe
+E:\Documentos\Acadêmico\Disciplinas\1 IFNMG\Técnico\POO\Aulas\2º Semestre\Aula 09\Práticas\_MiniAgenda -  Completa - Com Comentários\obj\Debug\MiniAgenda.pdb
+E:\Documentos\Acadêmico\Disciplinas\1 IFNMG\Técnico\POO\Aulas\2º Semestre\Aula 09\Práticas\_MiniAgenda -  Completa - Com Comentários\bin\Debug\MiniAgenda.exe
+E:\Documentos\Acadêmico\Disciplinas\1 IFNMG\Técnico\POO\Aulas\2º Semestre\Aula 09\Práticas\_MiniAgenda -  Completa - Com Comentários\bin\Debug\MiniAgenda.pdb
+E:\Documentos\Acadêmico\Disciplinas\1 IFNMG\Técnico\POO\Aulas\2º Semestre\Aula 09\Práticas\_MiniAgenda -  Completa - Com Comentários\obj\Debug\MiniAgenda.csprojResolveAssemblyReference.cache
+E:\Documentos\Acadêmico\Disciplinas\1 IFNMG\Técnico\POO\Aulas\2º Semestre\Aula 09\Práticas\_MiniAgenda -  Completa - Com Comentários\obj\Debug\MiniAgenda.frmMenu.resources
+E:\Documentos\Acadêmico\Disciplinas\1 IFNMG\Técnico\POO\Aulas\2º Semestre\Aula 09\Práticas\_MiniAgenda -  Completa - Com Comentários\obj\Debug\MiniAgenda.frmCadastroContatos.resources
+E:\Documentos\Acadêmico\Disciplinas\1 IFNMG\Técnico\POO\Aulas\2º Semestre\Aula 09\Práticas\_MiniAgenda -  Completa - Com Comentários\obj\Debug\MiniAgenda.frmPesquisaContatos.resources
+E:\Documentos\Acadêmico\Disciplinas\1 IFNMG\Técnico\POO\Aulas\2º Semestre\Aula 09\Práticas\_MiniAgenda -  Completa - Com Comentários\obj\Debug\MiniAgenda.Properties.Resources.resources
+E:\Documentos\Acadêmico\Disciplinas\1 IFNMG\Técnico\POO\Aulas\2º Semestre\Aula 09\Práticas\_MiniAgenda -  Completa - Com Comentários\obj\Debug\MiniAgenda.csproj.GenerateResource.Cache
+D:\Documentos\Acadêmico\Disciplinas\1 IFNMG\2015\Técnico\POO\Aulas\2º Semestre\Aula 09\Práticas\_MiniAgenda -  Completa - Com Comentários\bin\Debug\MiniAgenda.exe.config
+D:\Documentos\Acadêmico\Disciplinas\1 IFNMG\2015\Técnico\POO\Aulas\2º Semestre\Aula 09\Práticas\_MiniAgenda -  Completa - Com Comentários\obj\Debug\MiniAgenda.exe
+D:\Documentos\Acadêmico\Disciplinas\1 IFNMG\2015\Técnico\POO\Aulas\2º Semestre\Aula 09\Práticas\_MiniAgenda -  Completa - Com Comentários\obj\Debug\MiniAgenda.pdb
+D:\Documentos\Acadêmico\Disciplinas\1 IFNMG\2015\Técnico\POO\Aulas\2º Semestre\Aula 09\Práticas\_MiniAgenda -  Completa - Com Comentários\obj\Debug\MiniAgenda.csprojResolveAssemblyReference.cache
+D:\Documentos\Acadêmico\Disciplinas\1 IFNMG\2015\Técnico\POO\Aulas\2º Semestre\Aula 09\Práticas\_MiniAgenda -  Completa - Com Comentários\obj\Debug\MiniAgenda.frmMenu.resources
+D:\Documentos\Acadêmico\Disciplinas\1 IFNMG\2015\Técnico\POO\Aulas\2º Semestre\Aula 09\Práticas\_MiniAgenda -  Completa - Com Comentários\obj\Debug\MiniAgenda.frmCadastroContatos.resources
+D:\Documentos\Acadêmico\Disciplinas\1 IFNMG\2015\Técnico\POO\Aulas\2º Semestre\Aula 09\Práticas\_MiniAgenda -  Completa - Com Comentários\obj\Debug\MiniAgenda.frmPesquisaContatos.resources
+D:\Documentos\Acadêmico\Disciplinas\1 IFNMG\2015\Técnico\POO\Aulas\2º Semestre\Aula 09\Práticas\_MiniAgenda -  Completa - Com Comentários\obj\Debug\MiniAgenda.Properties.Resources.resources
+D:\Documentos\Acadêmico\Disciplinas\1 IFNMG\2015\Técnico\POO\Aulas\2º Semestre\Aula 09\Práticas\_MiniAgenda -  Completa - Com Comentários\obj\Debug\MiniAgenda.csproj.GenerateResource.Cache
